@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shodescho.github.io/sitemap
+Sitemap: https://shodescho.github.io/app/sitemap
+Sitemap: https://shodescho.github.io/assets/sitemap
+Sitemap: https://shodescho.github.io/css/sitemap
+Sitemap: https://shodescho.github.io/includes/sitemap
+Sitemap: https://shodescho.github.io/item/sitemap
+Sitemap: https://shodescho.github.io/src/sitemap
